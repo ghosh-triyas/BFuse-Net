@@ -47,7 +47,8 @@ isbn="978-981-96-3863-5"
 }
 ```
 
-Link to our paper -
+Link to our paper - https://link.springer.com/chapter/10.1007/978-981-96-3863-5_10
+
 
 
 
